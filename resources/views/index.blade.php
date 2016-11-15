@@ -8,7 +8,7 @@
     <title>Heroku</title>
 </head>
 <body>
-<h1>Tasks</h1>
+<h1>Our Tasks</h1>
 
 <ul>
     @foreach($tasks as $task)

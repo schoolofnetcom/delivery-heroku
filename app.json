@@ -1,11 +1,7 @@
 {
   "name": "delivery-heroku",
-<<<<<<< HEAD
-  "scripts": {},
-=======
   "scripts": {
   },
->>>>>>> f5c01b788132e647b2215cc08df8cd2e7688f39b
   "env": {
     "APP_DEBUG": {
       "required": true
